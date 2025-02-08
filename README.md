@@ -75,5 +75,4 @@ The **next pointer of the last node is `NULL`**, indicating the end of the list.
 
 ---
 
-### **Happy Coding! 🚀**
 
